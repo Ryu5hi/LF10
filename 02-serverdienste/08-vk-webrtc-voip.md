@@ -13,6 +13,7 @@ Recherchieren Sie in der Gruppe nach verfügbaren Videokonferenzsystemen.
 Berücksichtigen Sie dabei folgende Aspekte:
 
 - Anbieter/Dienstname
+Microsoft / Teams 
 
 - Softwarevoraussetzung
 
